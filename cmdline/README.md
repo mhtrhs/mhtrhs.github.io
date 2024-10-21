@@ -8,3 +8,4 @@
 Για το byte7 έτρεξα το tar -xzvf byte7.tar.gz.
 Για το byte8 έτρεξα το pico carriage_return.txt.
 Για το byte9 έτρεξα το cat ./-.
+Για το byte10 έτρεξα το sort -d names.txt.
