@@ -7,3 +7,4 @@
 Για το byte6 (αφού έκανα την ίδια διαδικασία στο /tmp) έτρεξα το unzip byte6.zip.
 Για το byte7 έτρεξα το tar -xzvf byte7.tar.gz.
 Για το byte8 έτρεξα το pico carriage_return.txt.
+Για το byte9 έτρεξα το cat ./-.
