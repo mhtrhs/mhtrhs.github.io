@@ -9,3 +9,4 @@
 Για το byte8 έτρεξα το pico carriage_return.txt.
 Για το byte9 έτρεξα το cat ./-.
 Για το byte10 έτρεξα το sort -d names.txt.
+Για το byte11 έκανα sort το births.txt.Στη συνέχεια έτρεξα το uniq -c births.txt >new.txt και τέλος έκανα sort -c το new.txt.
